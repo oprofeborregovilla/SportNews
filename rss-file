@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias Deportivas Internacionales - Noviembre 2020</title>
+    <link>http://tusitio.com/deportes-internacionales-nov2020</link>
+    <description>Últimas noticias deportivas internacionales del mes de noviembre de 2020</description>
+    <language>es-es</language>
+    <pubDate>Sat, 01 Nov 2020 00:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 30 Nov 2020 23:59:59 GMT</lastBuildDate>
+    
+    <!-- Ejemplo de una noticia -->
+    <item>
+      <title>Partido de fútbol entre equipos internacionales</title>
+      <link>https://www.futbolenlatele.com/</link>
+      <description>Resumen del emocionante partido de fútbol entre dos equipos internacionales.</description>
+      <pubDate>Fri, 06 Nov 2020 15:30:00 GMT</pubDate>
+    </item>
+
+    <!-- Otra noticia -->
+    <item>
+      <title>Torneo internacional de tenis</title>
+      <link>https://www.atptour.com/es/tournamentshttps://www.futbolenlatele.com/</link>
+      <description>Detalles sobre el torneo de tenis que tuvo lugar en noviembre de 2020.</description>
+      <pubDate>Wed, 18 Nov 2020 12:45:00 GMT</pubDate>
+    </item>
+
+      <item>
+      <title>Partidos Basket internacionales</title>
+      <link>https://www.marca.com/baloncesto/mundial/calendario.html</link>
+      <description>Detalles sobre el torneo de tenis que tuvo lugar en noviembre de 2020.</description>
+      <pubDate>Wed, 18 Nov 2020 12:45:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
